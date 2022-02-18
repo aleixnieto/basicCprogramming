@@ -1,8 +1,7 @@
 /*
    normaMatricial.c
-   19/02/2019 - Fidel Salvia Jordana
-   Programacio Cientifica - Laboratori
-   Programa que calcula la norma matricial d'una matriu i el maxim de la divisio entre
+   Aleix Nieto Juscafrea
+   Programa que calcula la norma matricial d'una matriu i el màxim de la divisió entre
    la norma d'un vecotr 'x' per la matriu i la norma de 'x'.
 */
 
