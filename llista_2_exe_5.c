@@ -1,6 +1,6 @@
 /*
    llista_2_exe_5.c
-   Fidel Salvia Jordana - 19/02/2019
+   Aleix Nieto Juscafrea
    Programam que conte diferents 'mains' i s'ha d'observar que fa.
 */
 
