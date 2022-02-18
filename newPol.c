@@ -1,8 +1,7 @@
 /*
    newPol.c
-   Fidel Salvia Jordana - 26/02/2019
-   Programacio Cientifica - Laboratori
-   Funcio que calcula per le metode de Newton el zero d'un polinomi.
+   Aleix Nieto Juscafrea
+   Funció que calcula pel mètode de Newton el zero d'un polinomi.
    Utilitzada en zeroPol.c.
 */
 
