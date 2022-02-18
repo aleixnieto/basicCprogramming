@@ -1,7 +1,6 @@
 /*
    triangPascal.c
-   Fidel Salvia Jordana - 04/03/2019
-   Programamcio Cientifica - Laboratori
+   Aleix Nieto Juscafrea
    Lleguim n i dibuixem el triangle de Pascal d'altura n.
 */
 
