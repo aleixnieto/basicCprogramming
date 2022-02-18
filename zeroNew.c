@@ -1,6 +1,6 @@
 /*
    zeroNew.c
-   Fidel Salvia Jordana - 26/02/2019
+   Aleix Nieto Juscafresa - 26/02/2019
    Programamcio Cientifica - Laboratori
    Programa que apartir de la funcio newton calcula
    el zero d una funcio.
