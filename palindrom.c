@@ -1,8 +1,7 @@
 /*
    palindorm.c
-   Fidel Salvia Jordana - 05/03/2019
-   Programamcio Cientifica - Laboratori
-   Comprova si una paraula es palindroma
+   Aleix Nieto Juscafrea
+   Comprova si una paraula és palíndroma
 */
 
 #include <stdio.h>
