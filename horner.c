@@ -1,8 +1,7 @@
 /*
    horner.c
-   Fidel Salvia Jordana - 26/02/2019
-   Programacio Cientifica - Laboratori
-   Fucnio que calcula el valor d un polinomi per la regla de Horner.
+   Aleix Nieto Juscafresa
+   Funció que calcula el valor d un polinomi per la regla de Horner.
    Utilitzada en zeroPol.c
 */ 
 
