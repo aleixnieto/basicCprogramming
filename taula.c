@@ -1,7 +1,6 @@
 /*
   taula.c
-  Fidel Salvia Jordana - 12/02/2019
-  Programacio cientifica
+  Aleix Nieto Juscafrea
   Programa que escriu una taula de les imatges de f1(x) i f2(x) per
   uns punts x-espaiats.
 */
