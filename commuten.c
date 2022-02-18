@@ -1,6 +1,6 @@
 /*
    commuten.c
-   Fidel Salvia Jordana - 05/03/2019
+   Aleix Nieto Juscafresa- 05/03/2019
    Programamcio Cientifica - Laboratori
    Utilitzan el producte de matrius mirem si dos matrius commuten.
 */
