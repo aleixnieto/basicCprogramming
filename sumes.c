@@ -1,7 +1,6 @@
 /*
    sumes.c
-   18/02/2019 Fidel Salvia Jordana
-   Programacio Cientifica - Laboratori
+   Aleix Nieto Juscafrea
    Calcula la suma de 1/(j**2) per j:1->N per N element de {1e3, ..., 1e6},
    compara els caluls utilitzan float i double i a més j:1->N i j:N->1.
 */
