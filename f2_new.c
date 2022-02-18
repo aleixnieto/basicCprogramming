@@ -1,8 +1,8 @@
  /*
    f2_new.c
-   Fidel Salvia Jordana - 26/02/2019
-   Programamcio Cientifica - Laboratori
-   Funcio i derivada utilitzada en newton.c per tal de calcular
+   Aleix Nieto Juscafresa - 26/02/2019
+   Programamció Científica - Laboratori
+   Funció i derivada utilitzada en newton.c per tal de calcular
    els seus zeros.
 */
 
