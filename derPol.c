@@ -1,8 +1,8 @@
 /*
    derPol.c
-   Fidel Salvia Jordana - 26/02/2019
+   Aleix Nieto Juscafresa - 26/02/2019
    Programacio Cientifica - Laboratori
-   Fucnio que retorna la derivada d'un polinomi, com a
+   Funció que retorna la derivada d'un polinomi, com a
    vector utilitzan memoria dinamica. S'utilitza en zeroPol.c
 */
 
