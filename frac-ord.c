@@ -1,7 +1,6 @@
 /*
    frac-ord.c
-   18/02/2019 Fidel Salvia Jordana
-   Programacio Cientifica - Laboratori
+   Aleix Nieto Juscafresa
    Donat un nombre n, el programa escriu totes les fraccions p/q tals que
    2 <= q <= n, 1 <= p <= q, mcd(p, q) = 1. També ha de dir quantes n'hi ha
 */
