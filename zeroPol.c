@@ -1,7 +1,6 @@
 /*
    newPol.c
-   Fidel Salvia Jordana - 04/03/2019
-   Programacio Cientifica - Laboratori
+   Aleix Nieto Juscafrea
    Programa que llegueix un polinomi i en calcula un zero per el metode de newton.
 */
 
