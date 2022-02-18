@@ -1,6 +1,6 @@
 /*
    newton.c
-   Fidel Salvia Jordana - 26/02/2019
+   Aleix Nieto Juscafresa - 26/02/2019
    Programamcio Cientifica - Laboratori
    Funcio utilitzada en zeroNew.c per calcular el zero
    d una funcio per el metode de Newton-Raphson.
