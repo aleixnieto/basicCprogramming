@@ -1,7 +1,6 @@
 /*
    producteMatrius.c
-   Fidel Salvia Jordana - 05/03/2019
-   Programamcio Cientifica - Laboratori
+   Aleix Nieto Juscafrea
    Funció que calcula el producte de matrius
 */ 
 
